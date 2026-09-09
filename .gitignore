@@ -3,9 +3,11 @@
 data/bronze/*
 data/silver/*
 data/gold/*
+data/model_input/*
 !data/bronze/.gitkeep
 !data/silver/.gitkeep
 !data/gold/.gitkeep
+!data/model_input/.gitkeep
 
 __pycache__/
 *.pyc
